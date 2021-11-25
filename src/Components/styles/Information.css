@@ -1,0 +1,35 @@
+.Information-Container {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.Information {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  font-size: 14pt;
+  margin-top: 20px;
+}
+
+.Account-Name {
+}
+
+.Payer-Name-Points {
+  display: flex;
+  grid-column-start: 2;
+}
+
+.Payer-Name-Points-Title {
+  font-weight: bold;
+  font-size: 14pt;
+  margin-top: 25px;
+}
+
+.Payer-Name-Points-List {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  align-items: baseline;
+  justify-content: baseline;
+  margin-top: 40px;
+}

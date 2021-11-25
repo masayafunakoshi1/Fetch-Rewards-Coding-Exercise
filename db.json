@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "payer": "DANNON",
+      "points": 1000,
+      "timestamp": "2020-11-02T14:00:00Z",
+      "id": 1
+    },
+    {
+      "payer": "UNILEVER",
+      "points": 200,
+      "timestamp": "2020-10-31T11:00:00Z",
+      "id": 2
+    },
+    {
+      "payer": "DANNON",
+      "points": -200,
+      "timestamp": "2020-10-31T15:00:00Z",
+      "id": 3
+    },
+    {
+      "payer": "MILLER COORS",
+      "points": 10000,
+      "timestamp": "2020-11-01T14:00:00Z",
+      "id": 4
+    },
+    {
+      "payer": "DANNON",
+      "points": -300,
+      "timestamp": "2020-10-31T10:00:00Z",
+      "id": 5
+    },
+    {
+      "payer": "DANNON",
+      "points": 1500,
+      "timestamp": "2015-09-11T06:28:01Z",
+      "id": 6
+    },
+    {
+      "payer": "UNILEVER",
+      "points": 2900,
+      "timestamp": "2021-04-18T12:04:31Z",
+      "id": 7
+    },
+    {
+      "payer": "UNILEVER",
+      "points": -1000,
+      "timestamp": "2019-03-01T11:13:45Z",
+      "id": 8
+    },
+    {
+      "payer": "MILLER COORS",
+      "points": -3000,
+      "timestamp": "2020-11-13T07:26:35Z",
+      "id": 9
+    },
+    {
+      "payer": "ZILLA",
+      "points": 2000,
+      "timestamp": "2018-11-23T06:08:13Z",
+      "id": 10
+    },
+    {
+      "payer": "ZILLA",
+      "points": 1500,
+      "timestamp": "2018-11-14T06:08:13Z",
+      "id": 10
+    }
+  ]
+}

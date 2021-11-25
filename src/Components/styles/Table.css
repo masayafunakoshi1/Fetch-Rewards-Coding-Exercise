@@ -1,0 +1,16 @@
+th,
+td {
+  border: 1px solid black;
+  width: 900px;
+}
+
+.Table {
+  display: flex;
+  border: 1px solid black;
+  height: fit-content;
+}
+
+td {
+  text-align: left;
+  text-indent: 10px;
+}
